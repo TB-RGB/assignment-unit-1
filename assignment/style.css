@@ -11,3 +11,32 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+main {
+    background-color:teal;
+}
+
+header {
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+body {
+    background-color:darkslategrey;
+}
+
+footer {
+    background-color: darkslateblue;
+}
+
+img {
+    border: 5px dashed #713d91;
+}
+
+.added-image {
+    text-align: center;
+}
+
+p.quote {
+    font-family: 'Courier New', Courier, monospace;
+}
