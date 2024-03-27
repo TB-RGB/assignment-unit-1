@@ -19,6 +19,7 @@ main {
 header {
     background-color: darkslateblue;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
@@ -38,5 +39,15 @@ img {
 }
 
 p.quote {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+.words {
+    background-color:salmon;
+}
+
+.funfacts {
     font-family: 'Courier New', Courier, monospace;
 }
